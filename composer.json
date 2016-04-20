@@ -1,0 +1,21 @@
+{
+    "name": "fritak/nette-messenger-platform",
+    "description": "Facebook Messenger Platform PHP API for bots.",
+    "homepage": "https://github.com/fritak/nette-messenger-platform",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marek Sušický",
+            "email": "contact@fritak.eu",
+            "homepage": "http://www.fritak.eu",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "fritak/messenger-platform": "~1.1"
+    },
+    "autoload": {
+        "classmap": ["/"]
+    }
+}
